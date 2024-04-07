@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\CrudNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8BFA64-4EC1-4BE9-98DB-056DE85F0846}|CrudNet\\CrudNet.csproj|d:\\c#\\crudnet\\crudnet\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8BFA64-4EC1-4BE9-98DB-056DE85F0846}|CrudNet\\CrudNet.csproj|solutionrelative:crudnet\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8BFA64-4EC1-4BE9-98DB-056DE85F0846}|CrudNet\\CrudNet.csproj|d:\\c#\\crudnet\\crudnet\\models\\brandcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8BFA64-4EC1-4BE9-98DB-056DE85F0846}|CrudNet\\CrudNet.csproj|solutionrelative:crudnet\\models\\brandcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8BFA64-4EC1-4BE9-98DB-056DE85F0846}|CrudNet\\CrudNet.csproj|d:\\c#\\crudnet\\crudnet\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8BFA64-4EC1-4BE9-98DB-056DE85F0846}|CrudNet\\CrudNet.csproj|solutionrelative:crudnet\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "D:\\C#\\CrudNet\\CrudNet\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "CrudNet\\Controllers\\BrandController.cs",
+              "ToolTip": "D:\\C#\\CrudNet\\CrudNet\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "CrudNet\\Controllers\\BrandController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T13:49:27.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BrandContext.cs",
+              "DocumentMoniker": "D:\\C#\\CrudNet\\CrudNet\\Models\\BrandContext.cs",
+              "RelativeDocumentMoniker": "CrudNet\\Models\\BrandContext.cs",
+              "ToolTip": "D:\\C#\\CrudNet\\CrudNet\\Models\\BrandContext.cs",
+              "RelativeToolTip": "CrudNet\\Models\\BrandContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T13:30:46.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "D:\\C#\\CrudNet\\CrudNet\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "CrudNet\\Models\\Brand.cs",
+              "ToolTip": "D:\\C#\\CrudNet\\CrudNet\\Models\\Brand.cs",
+              "RelativeToolTip": "CrudNet\\Models\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T13:24:20.368Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
